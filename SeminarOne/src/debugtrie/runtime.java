@@ -6,6 +6,17 @@ public class runtime {
 	// Occur while the program is running.
 	// 	Compiles successfully but crashes during execution.
 	
+	// ArithmeticException:	
+	// int x = 10 / 0; // Division by zero
+	
+	// NullPointerException:
+	// String s = null;
+	// System.out.println(s.length()); // Accessing method on null
+	
+	// ArrayIndexOutOfBoundsException:
+	//	int[] arr = new int[3];
+	//	arr[3] = 10; // Index out of bounds
+
 	// Step-by-step Debugging
 	// Use IDE breakpoints to pause and inspect variables.
 	// Step through loops and conditionals to find errors.
@@ -45,3 +56,4 @@ public class runtime {
 		
 	}
 }
+
