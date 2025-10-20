@@ -1,4 +1,4 @@
-package Seminar;
+package debugtrie;
 
 public class DebugExampleQuestion {
     public static void main(String[] args) {
