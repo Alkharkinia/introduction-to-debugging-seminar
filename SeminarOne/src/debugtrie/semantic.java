@@ -11,6 +11,7 @@ public class semantic {
     	//Comment out shortcut: Ctrl + Shift + / [7] (Windows), Cmd + / [7] (MacOS)
     	//Indent Key: Tab
     	//Remove Indent shorcut: Shift + Tab
+		//syso to System.out.println(); fn control space for macos crtl space for windows
 
 //        // 1️. Type incompatibility
 //        int age = "25"; // ❌ Compiler error: cannot assign String to int
@@ -37,4 +38,5 @@ public class semantic {
     }
 
 }
+
 
