@@ -8,7 +8,7 @@ public class semantic {
 
     public static void main(String[] args) {
     	
-    	//Comment out shortcut: Ctrl + Shift + 7
+    	//Comment out shortcut: Ctrl + Shift + / [7] (Windows), Cmd + / [7] (MacOS)
     	//Indent Key: Tab
     	//Remove Indent shorcut: Shift + Tab
 
@@ -37,3 +37,4 @@ public class semantic {
     }
 
 }
+
