@@ -4,7 +4,7 @@ public class DebugExampleQuestion {
     public static void main(String[] args) {
         int[] numbers = {11, 20, 30, 40, 51};
         double average = calculateAverage(numbers);
-        System.out.println("Ortalama: " + average);
+        System.out.println("Average: " + average);
     }
 
     public static double calculateAverage(int[] nums) {
